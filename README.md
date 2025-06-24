@@ -1,6 +1,6 @@
 Desenvolvi um sistema de gestão de projetos. Cada projeto possui uma lista de tarefas internas, que não pode ser acessada nem modificada diretamente de fora da classe. O sistema só permite adicionar tarefas, e precisa mostrar quantas já existem.
 
-Crie uma classe Projeto com:
+Criei uma classe Projeto com:
 
 Uma propriedade pública Nome.
 Uma lista privada de strings chamada tarefas.
