@@ -2,8 +2,8 @@ Desenvolvi um sistema de gestão de projetos. Cada projeto possui uma lista de t
 
 Criei uma classe Projeto com:
 
-Uma propriedade pública Nome.
-Uma lista privada de strings chamada tarefas.
-Um método público AdicionarTarefa(string tarefa) que insere uma nova tarefa.
-Um método público ExibirTarefas() que imprime todas as tarefas.
-Uma propriedade somente leitura QuantidadeTarefas, baseada no tamanho da lista.
+- Uma propriedade pública Nome.
+- Uma lista privada de strings chamada tarefas.
+- Um método público AdicionarTarefa(string tarefa) que insere uma nova tarefa.
+- Um método público ExibirTarefas() que imprime todas as tarefas.
+- Uma propriedade somente leitura QuantidadeTarefas, baseada no tamanho da lista.
